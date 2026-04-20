@@ -1,0 +1,8 @@
+; Cloudflare DNS import file for verone3d.com
+; GitHub Pages A records
+verone3d.com. 3600 IN A 185.199.108.153
+verone3d.com. 3600 IN A 185.199.109.153
+verone3d.com. 3600 IN A 185.199.110.153
+verone3d.com. 3600 IN A 185.199.111.153
+; WWW CNAME
+www.verone3d.com. 3600 IN CNAME verone3d.github.io.
